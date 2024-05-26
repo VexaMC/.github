@@ -1,5 +1,4 @@
 
 # VexaMC
 
-Join the [discord](https://discord.gg/tHZphyQYC
-w)
+Join the [discord](https://discord.gg/tHZphyQYC)
