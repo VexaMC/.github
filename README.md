@@ -1,2 +1,4 @@
-# .github
-Readme
+
+# VexaMC
+
+Join the [discord](https://discord.gg/tHZphyQYCw)
